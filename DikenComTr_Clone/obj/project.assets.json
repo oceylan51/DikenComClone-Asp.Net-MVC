@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\osman\\Desktop\\Github Projelerim\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\DikenComTr_Clone.csproj",
       "projectName": "DikenComTr_Clone",
       "projectPath": "C:\\Users\\osman\\Desktop\\Github Projelerim\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\DikenComTr_Clone.csproj",
       "packagesPath": "C:\\Users\\osman\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\osman\\Desktop\\Github Projelerim\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\osman\\Desktop\\Github Projelerim2\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\DikenComTr_Clone.csproj",
+      "projectName": "DikenComTr_Clone",
+      "projectPath": "C:\\Users\\osman\\Desktop\\Github Projelerim2\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\DikenComTr_Clone.csproj",
+      "packagesPath": "C:\\Users\\osman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\osman\\Desktop\\Github Projelerim2\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\obj\\",
+>>>>>>> 05dbc89f582738cca8be8b2801269d8e46c28a8d
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "abSvhbkoRJk3vN0mt8evwLs1lY8kZFylWgZMJQxETx2r/Pc2+Bn+nVV0oUCmcTN9TVFux3o18j4kGyXynbqptw==",
   "success": true,
   "projectFilePath": "C:\\Users\\osman\\Desktop\\Github Projelerim\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\DikenComTr_Clone.csproj",
+=======
+  "dgSpecHash": "TORK7ovszKWC8dpnttAA6/uUpqYYAoiWScxr3PYkxuFx8Vm6gTBhcTh5SCSXveJRUvQYo9d8YsZc/KbvaJ0HHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\osman\\Desktop\\Github Projelerim2\\DikenComClone-Asp.Net-MVC\\DikenComTr_Clone\\DikenComTr_Clone.csproj",
+>>>>>>> 05dbc89f582738cca8be8b2801269d8e46c28a8d
   "expectedPackageFiles": [],
   "logs": []
 }
